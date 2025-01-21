@@ -105,7 +105,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahatirtusher/serene-mind.git
+   git clone https://github.com/Mahatir-Ahmed-Tusher/SereneMind?tab=readme-ov-file#file-structure.git
    cd serene-mind
    ```
 
