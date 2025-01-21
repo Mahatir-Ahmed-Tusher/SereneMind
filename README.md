@@ -2,6 +2,9 @@
 # Serene Mind
 
 Serene Mind is a comprehensive mental health and wellness platform designed to provide users with accessible tools and resources for managing their mental well-being. The platform combines modern technology, AI-powered features, and evidence-based practices to support emotional wellness effectively.
+![rsz_where_technology_meets_tranquility_1](https://github.com/user-attachments/assets/6e427789-064d-44d0-878c-b4315b581e9d)
+
+
 
 ## Live Demo
 Access the live application here: [Serene Mind](https://serene-mind-world.netlify.app/)
@@ -25,22 +28,28 @@ Access the live application here: [Serene Mind](https://serene-mind-world.netlif
 - View visual trends through charts.
 - Add notes and reflections.
 - Historical mood data visualization.
+![image](https://github.com/user-attachments/assets/c7aa51a1-a512-4130-9c71-fbdef4560d6e)
+
 
 ### Smart Journal
 - AI-powered journaling with sentiment analysis.
 - Automated insights and suggestions.
 - Weekly progress tracking.
+![image](https://github.com/user-attachments/assets/e91f2fe5-4c10-420b-9192-ca32b006dafc)
 
 ### Mindfulness Exercises
 - Breathing exercises with visual animations.
 - Guided meditation with timers.
 - Progressive muscle relaxation techniques.
 - Audio feedback for mindfulness practices.
+  ![image](https://github.com/user-attachments/assets/d5a0dca2-9eb9-4241-b408-be96cf8a710f)
+
 
 ### Symptom Checker
 - AI-powered mental health assessments.
 - Personalized recommendations based on responses.
 - Emergency resources for crisis support.
+![image](https://github.com/user-attachments/assets/5fcfd817-8ed6-42e0-95b1-f3d2ae468e25)
 
 ### Emergency Support
 - Quick access to crisis hotlines and emergency contacts.
@@ -56,9 +65,6 @@ Access the live application here: [Serene Mind](https://serene-mind-world.netlif
 - Interactive daily challenges.
 - Progress tracking and achievements.
 
-### Journey Tracker
-- Visualize personal growth and milestones.
-- Monthly highlights and achievements.
 
 ### Resources Section
 - Curated book recommendations.
@@ -176,8 +182,14 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a pull request on GitHub.
 
 ---
+## Watch the Promotional Video 🎥
+
+[![Watch the video](![image](https://github.com/user-attachments/assets/7e2e5699-a8bb-401b-a83d-2dae1703daa1)
+)](https://youtu.be/PI6MfzTbZf8)
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
